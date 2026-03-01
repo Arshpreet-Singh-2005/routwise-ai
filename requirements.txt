@@ -1,0 +1,11 @@
+streamlit
+folium
+streamlit-folium
+langchain==0.3.27
+langchain-community==0.4.1
+langchain-core==1.2.12
+langchain-classic
+langchain-google-genai
+requests
+pandas
+python-dotenv
